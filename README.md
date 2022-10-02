@@ -1,2 +1,2 @@
 # bid-system
-inline bid management system
+online bid management system
